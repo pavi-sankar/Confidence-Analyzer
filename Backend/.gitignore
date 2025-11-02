@@ -1,0 +1,23 @@
+# Optimized Dll Files
+__pycache__/
+*py [cod]
+*$py.class
+
+# Virtual Environments
+myenv/
+
+# Environment Variables
+.env 
+
+# Database Files
+*.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python logs
+*.log/
+
+# credentials
+*.json

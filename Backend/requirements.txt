@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+whisper-openai
+librosa
+moviepy
+transformers
+xgboost
+scikit-learn
+mediapipe
+opencv-python
